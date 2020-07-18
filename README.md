@@ -8,5 +8,5 @@ QQ 群: 700527082
 
 服务器不限制玩家间 PVP 行为, 服务器不设置氪金项目以确保公平.
 
-若有额外问题可在群内询问.
+问题提交地址 [https://github.com/211server/211SE-issue](https://github.com/211server/211SE-issue)
 
