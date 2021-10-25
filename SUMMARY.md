@@ -20,7 +20,7 @@
 * [防御护盾](fu-wu-qi-mod/fang-yu-hu-dun.md)
 * [替换原版武器](fu-wu-qi-mod/ti-huan-yuan-ban-wu-qi.md)
 * [MA 武器合集](fu-wu-qi-mod/ma-wu-qi-he-ji.md)
-* [MWI 垂发武器](fu-wu-qi-mod/mwi-chui-fa-wu-qi.md)
+* [MWI 归向制导武器](fu-wu-qi-mod/mwi-gui-xiang-zhi-dao-wu-qi.md)
 * [碎石机](fu-wu-qi-mod/sui-shi-ji.md)
 
 ***
