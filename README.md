@@ -6,6 +6,8 @@
 
 若模组下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396)
 
+服务器监视器 [https://se-monitor.211server.com/](https://se-monitor.211server.com)
+
 QQ 群: 700527082
 
 本服为 PVP 服, 由此带来的任何损失均为正常游戏过程.

@@ -25,5 +25,6 @@
 
 ***
 
+* [服务器监视器](fu-wu-qi-jian-shi-qi.md)
 * [常用命令](chang-yong-ming-ling.md)
 * [FAQ](faq.md)
