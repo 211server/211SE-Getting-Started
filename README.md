@@ -20,4 +20,4 @@ QQ 群: 700527082
 
 也可以直接通过支付宝转账. 所有捐助将全部用于服务器维护.
 
-![](<.gitbook/assets/image (4) (1).png>)
+![](<.gitbook/assets/image (13).png>)
