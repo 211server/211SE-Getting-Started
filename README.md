@@ -4,7 +4,7 @@
 
 服务器列表搜索 "211" 即可看到服务器, 也可以使用链接进服 [steam://connect/se.211server.com:27017](steam://connect/se.211server.com:27017)
 
-若 mod 下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396)
+若模组下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396)
 
 QQ 群: 700527082
 
@@ -18,4 +18,4 @@ QQ 群: 700527082
 
 也可以直接通过支付宝转账. 所有捐助将全部用于服务器维护.
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)

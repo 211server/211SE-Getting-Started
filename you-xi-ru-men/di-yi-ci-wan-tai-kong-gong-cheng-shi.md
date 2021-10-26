@@ -38,9 +38,9 @@
 
 在服务器列表搜索 "211" 即可找到本服务器, 或者使用链接进服 [steam://connect/se.211server.com:27017](steam://connect/se.211server.com:27017)
 
-进入服务器时会自动下载并启用服务器所用的 mod, 正常情况下不需要手动处理 mod.
+进入服务器时会自动下载并启用服务器所用的模组, 正常情况下不需要手动处理模组.
 
-若 mod 下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396) . 订阅后, Steam 客户端会主动下载服务器所有 mod.
+若模组下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396) . 订阅后, Steam 客户端会主动下载服务器所有 mod.
 
 ## 在服务器里怎么玩
 
