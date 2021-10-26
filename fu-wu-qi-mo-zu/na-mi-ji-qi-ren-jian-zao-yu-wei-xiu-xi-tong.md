@@ -6,7 +6,7 @@ description: Nanobot Build and Repair System
 
 工坊链接 [https://steamcommunity.com/sharedfiles/filedetails/?id=857053359](https://steamcommunity.com/sharedfiles/filedetails/?id=857053359)
 
-此模组会增加一个方块 "NanobotBuildAndRepairSystem"(大方块和小方块船均可用), 在 G 键菜单中搜索 nano 即可找到它.
+此模组会增加一个方块 "BuildAndRepairSystem"(大方块和小方块船均可用), 在 G 键菜单中搜索 build 即可找到它.
 
 ## 功能
 

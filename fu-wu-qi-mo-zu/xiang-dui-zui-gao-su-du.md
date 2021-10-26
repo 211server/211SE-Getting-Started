@@ -16,7 +16,7 @@ description: Relative Top Speed
 
 
 
-MOD 命令:
+模组命令:
 
 /rts help
 
