@@ -11,6 +11,10 @@
 
 * [害人入门](pvp-ru-men/hai-ren-ru-men.md)
 
+## 编程块入门
+
+* [什么是编程块](bian-cheng-kuai-ru-men/shi-mo-shi-bian-cheng-kuai.md)
+
 ## 服务器模组
 
 * [特殊方块](fu-wu-qi-mo-zu/te-shu-fang-kuai.md)
