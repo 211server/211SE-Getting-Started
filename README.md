@@ -2,6 +2,8 @@
 
 欢迎来到 211 服务器, 这里将介绍服务器有关的资料和数据.
 
+本文档地址: [https://se-help.211server.com](https://se-help.211server.com)
+
 服务器列表搜索 "211" 即可看到服务器, 也可以使用链接进服 [steam://connect/se.211server.com:27017](steam://connect/se.211server.com:27017)
 
 若模组下载过慢请手动订阅合集 [https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396](https://steamcommunity.com/sharedfiles/filedetails/?id=2153927396)
@@ -21,3 +23,4 @@ QQ 群: 700527082
 也可以直接通过支付宝转账. 所有捐助将全部用于服务器维护.
 
 ![](<.gitbook/assets/image (13).png>)
+
