@@ -57,17 +57,17 @@ _颜色亮度反映了你在护盾调制器上的设置._
 
 左边的绿色虚线表示你的护盾的充电速度, 右边的红色虚线表示受到的每秒伤害(DPS).
 
-![](<../.gitbook/assets/image (25).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (25).png>) ![](<../.gitbook/assets/image (5).png>)
 
 内部的一组虚线以 10% 的增量向你展示护盾充电百分比.
 
-![](<../.gitbook/assets/image (15).png>)![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (15).png>) ![](<../.gitbook/assets/image (4).png>)
 
 当护盾充满电时, 内部的虚线将完全包裹护盾图标.
 
 ### 护盾热量指示器
 
-![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (7).png>) ![](<../.gitbook/assets/image (14).png>)
 
 护盾图标中间的九个点和一个六边形代表热量生成: 每有一个点被填满表示 10% 热量以及 50% 充电减益, 当全部 10 个点都被填满时你的护盾就不会再生了. 当他们充满了橙色, 护盾就会因为持续性伤害而不再充电. 一旦达到 10 热度, 就会有 20x 的再生减益, 并且一旦 10 热度开始闪烁, 充电就会中断, 直到护盾被击破或停止持续伤害.
 
@@ -121,7 +121,7 @@ _颜色亮度反映了你在护盾调制器上的设置._
 
 ## 护盾转向机制(Shield Shunting)
 
-(注: shunting 指火车道岔的转向)
+(注: shunting 指火车道岔切换方向)
 
 定向护盾的加入是为了让护盾用户能够主动控制护盾的有效性. 在技巧和计划可以起到决定性作用的同时, 错误的代价也是十分沉重的.
 
