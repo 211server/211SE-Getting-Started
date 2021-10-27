@@ -1,0 +1,19 @@
+{
+  "variables": {
+    "repository": "https://github.com/211server/211SE-Getting-Started",
+    "host": "https://se-help.211server.com"
+  },
+  "plugins": [
+    "-sharing",
+    "-lunr",
+    "-search",
+    "gtag",
+    "back-to-top-button",
+    "encode-link-round-with-angle-brackets"
+  ],
+  "pluginsConfig": {
+    "gtag": {
+      "token": "G-2KW8WSLVVK"
+    }
+  }
+}

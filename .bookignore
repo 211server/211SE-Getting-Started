@@ -1,0 +1,6 @@
+.bookignore
+.gitignore
+package.json
+yarn.lock
+*.php
+.htaccess
