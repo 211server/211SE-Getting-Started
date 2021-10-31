@@ -46,6 +46,7 @@
 * [网格动态暂停](fu-wu-qi-ji-zhi/wang-ge-dong-tai-zan-ting.md)
 * [烧毁超时编程块](fu-wu-qi-ji-zhi/shao-hui-chao-shi-bian-cheng-kuai.md)
 * [网格分裂时继承原名称](fu-wu-qi-ji-zhi/wang-ge-fen-lie-shi-ji-cheng-yuan-ming-cheng.md)
+* [垃圾清理](fu-wu-qi-ji-zhi/la-ji-qing-li.md)
 
 ***
 
