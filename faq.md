@@ -4,7 +4,7 @@
 
 错误的提问例子: 我上不去服务器啊/服务器卡了吗/钻头不挖矿啊/精炼厂怎么没用啊/有人在吗/怎么玩啊
 
-虽然群里的玩家都很友善, 但是提出问题前请先阅读 [https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh\_CN.md](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh\_CN.md)
+虽然群里的玩家都很友善, 但是**提出问题前请先阅读** [https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh\_CN.md](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh\_CN.md)
 
 下面是一些常见问题和解答
 
@@ -82,6 +82,12 @@ A: 由于游戏 bug, 有时只有当人物从驾驶座上下来时才会从服�
 
 
 
+Q: 我的武器开火时看不到武器发出去的炮弹/激光.
+
+A: 由于客户端优化, 客户端会在周围有大量投射物时不显示投射物尾焰, 而炮弹本身很小因此很难看到炮弹被射出(激光其实也是一种炮弹). 坐在驾驶座上时优化层级更高, 所以从驾驶座上脱离后有时可以避免优化从而看到炮弹尾焰.
+
+
+
 Q: 我撞上了看不见的空气墙/我穿过了体素或网格
 
 A: 这是由于客户端数据与服务端不同步造成的, 请重新进入服务器或使用命令 "!entities refresh"(出于游戏代码问题, 可能会造成客户端崩溃) 来强制同步.
@@ -120,7 +126,7 @@ A: 由于游戏代码缺陷, 转子, 活塞, 对接器等机械性连接组件�
 
 Q: 我发射的物理学武器(重力炮)为什么明明击中了目标却没有成功引爆
 
-A: 服务器只加载所有玩家周围 3km 内的网格. 在加载范围外的网格受到物理引擎影响, 但是功能不会运作. 功能包括所有功能性方块(Functional Block)的工作和方块破损. 同理, 一个依靠引擎悬停在引力场中的飞船, 在人物远离后, 引擎将停止工作, 飞船会摔到地上(如果与地面接触时也没有被加载则不会摔坏).
+A: 服务器只加载所有玩家周围 5km 内的网格. 在加载范围外的网格受到物理引擎影响, 但是功能不会运作. 功能包括所有功能性方块(Functional Block)的工作和方块破损. 同理, 一个依靠引擎悬停在引力场中的飞船, 在人物远离后, 引擎将停止工作, 飞船会摔到地上(如果与地面接触时也没有被加载则不会摔坏).
 
 
 

@@ -1,6 +1,6 @@
 # 211 SpaceEngineers
 
-欢迎来到 211 服务器, 这里将介绍服务器有关的资料和数据.
+欢迎来到 211 太空工程师服务器, 这里将介绍服务器有关的资料和数据.
 
 本文档地址: [https://se-help.211server.com](https://se-help.211server.com)
 
