@@ -48,6 +48,10 @@
 * [网格分裂时继承原名称](fu-wu-qi-ji-zhi/wang-ge-fen-lie-shi-ji-cheng-yuan-ming-cheng.md)
 * [垃圾清理](fu-wu-qi-ji-zhi/la-ji-qing-li.md)
 
+## 服务器活动
+
+* [暴力摩托环球竞速赛](fu-wu-qi-huo-dong/bao-li-mo-tuo-huan-qiu-jing-su-sai.md)
+
 ***
 
 * [服务器监视器](fu-wu-qi-jian-shi-qi.md)
