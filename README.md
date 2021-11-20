@@ -10,6 +10,8 @@
 
 服务器监视器 [https://se-monitor.211server.com/](https://se-monitor.211server.com)
 
+可公开的媒体资源下载点 [https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j](https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j)
+
 QQ 群: 700527082
 
 本服为 PVP 服, 由此带来的任何损失均为正常游戏过程.
