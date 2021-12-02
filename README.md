@@ -10,7 +10,7 @@
 
 服务器监视器 [https://se-monitor.211server.com/](https://se-monitor.211server.com)
 
-可公开的媒体资源下载点 [https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j](https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j)
+可公开的资源下载点 [https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j](https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j)
 
 QQ 群: 700527082
 
@@ -20,11 +20,7 @@ QQ 群: 700527082
 
 问题提交地址 [https://github.com/211server/211SE-issue](https://github.com/211server/211SE-issue)
 
-如果你想无偿捐助服务器, 可以在爱发电上订阅腐竹 [https://afdian.net/@czp3009](https://afdian.net/@czp3009)
 
-也可以直接通过支付宝转账. 所有捐助将全部用于服务器维护.
-
-![](<.gitbook/assets/image (13).png>)
 
 © 2012-2022 211server.com 版权所有 [浙ICP备15014692号](http://beian.miit.gov.cn)
 
