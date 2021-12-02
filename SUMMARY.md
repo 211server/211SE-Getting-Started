@@ -1,6 +1,7 @@
 # Table of contents
 
 * [211 SpaceEngineers](README.md)
+* [服务器规则](fu-wu-qi-gui-ze.md)
 * [鸣谢列表](ming-xie-lie-biao.md)
 
 ## 游戏入门
