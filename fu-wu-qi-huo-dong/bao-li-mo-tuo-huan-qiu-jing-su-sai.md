@@ -28,7 +28,7 @@
 
 比赛开始前请将自己阵营的载具的蓝图上传到服务器, 比赛时管理员将使用此蓝图为你的阵营提供载具.
 
-上传地址: [https://cloud.211server.com/index.php/s/ogjfQxT38xes6nR](https://cloud.211server.com/index.php/s/ogjfQxT38xes6nR)
+上传地址: [https://cloud.211server.com/index.php/s/9b5fSqq5cYizT9A](https://cloud.211server.com/index.php/s/9b5fSqq5cYizT9A)
 
 请自己新建一个与自己阵营名相同的文件夹, 然后把蓝图上传到此文件夹中.
 

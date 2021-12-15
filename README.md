@@ -12,6 +12,8 @@
 
 可公开的资源下载点 [https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j](https://cloud.211server.com/index.php/s/y7nYKT7t7mzE42j)
 
+资源上传点 [https://cloud.211server.com/index.php/s/9b5fSqq5cYizT9A](https://cloud.211server.com/index.php/s/9b5fSqq5cYizT9A)
+
 QQ 群: 700527082
 
 本服为 PVP 服, 由此带来的任何损失均为正常游戏过程.
