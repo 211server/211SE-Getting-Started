@@ -6,7 +6,7 @@ description: Defense Shields
 
 工坊链接 [https://steamcommunity.com/sharedfiles/filedetails/?id=1365616918](https://steamcommunity.com/sharedfiles/filedetails/?id=1365616918)
 
-[武器核心](wu-qi-he-xin.md)兼容的护盾模组.
+[武器核心](../fu-wu-qi-mo-zu-dang-qian-zhou-mu/wu-qi-he-xin.md)兼容的护盾模组.
 
 编程块 API: [https://steamcommunity.com/linkfilter/?url=https://github.com/sstixrud/DefenseShields/blob/Production/Data/Scripts/DefenseShields/API/PbApiWrapper.cs](https://steamcommunity.com/linkfilter/?url=https://github.com/sstixrud/DefenseShields/blob/Production/Data/Scripts/DefenseShields/API/PbApiWrapper.cs)
 

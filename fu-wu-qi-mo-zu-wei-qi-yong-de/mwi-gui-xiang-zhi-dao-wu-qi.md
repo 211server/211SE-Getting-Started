@@ -10,7 +10,7 @@ description: MWI - Homing Weaponry
 
 ![](../.gitbook/assets/4LsjcYn.gif)
 
-本模组基于[武器核心](wu-qi-he-xin.md)制作.
+本模组基于[武器核心](../fu-wu-qi-mo-zu-dang-qian-zhou-mu/wu-qi-he-xin.md)制作.
 
 ## 包含的方块
 
@@ -33,7 +33,7 @@ description: MWI - Homing Weaponry
 
 我该如何使用像这样的武器核心武器?
 
-[武器核心指南](wu-qi-he-xin.md).
+[武器核心指南](../fu-wu-qi-mo-zu-dang-qian-zhou-mu/wu-qi-he-xin.md).
 
 我怎么把它们射下来(注: 指拦截导弹)?
 

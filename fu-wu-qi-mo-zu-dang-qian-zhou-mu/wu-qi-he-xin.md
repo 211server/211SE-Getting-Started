@@ -26,7 +26,7 @@ description: WeaponCore
 
 ![我们的手无寸铁的飞船. 黑色的挂载点是武器将要装备的地方.](<../.gitbook/assets/image (18).png>)
 
-在这个例子中, 我将使用"[替换原版武器](ti-huan-yuan-ban-wu-qi.md)"和"[归向制导武器](mwi-gui-xiang-zhi-dao-wu-qi.md)"模组. 将这些武器放在船上你想要的地方. 与其他模组一样, 请确保你的武器与船的其他部分有物流系统连接并且你安装的任何基于能量或热能的武器有足够的能源以开火. 那些武器通常不需要连接物流系统来开火, 但是他们仍然会耗能源.
+在这个例子中, 我将使用"[替换原版武器](ti-huan-yuan-ban-wu-qi.md)"和"[归向制导武器](../fu-wu-qi-mo-zu-wei-qi-yong-de/mwi-gui-xiang-zhi-dao-wu-qi.md)"模组. 将这些武器放在船上你想要的地方. 与其他模组一样, 请确保你的武器与船的其他部分有物流系统连接并且你安装的任何基于能量或热能的武器有足够的能源以开火. 那些武器通常不需要连接物流系统来开火, 但是他们仍然会耗能源.
 
 ![接近武装完毕.](<../.gitbook/assets/image (21).png>)
 
@@ -145,7 +145,7 @@ description: WeaponCore
 
 #### 护盾(Shield)
 
-如果[防御护盾](fang-yu-hu-dun.md)在游戏中被启用, 并且目标有护盾, 则显示目标的当前护盾百分比.
+如果[防御护盾](../fu-wu-qi-mo-zu-wei-qi-yong-de/fang-yu-hu-dun.md)在游戏中被启用, 并且目标有护盾, 则显示目标的当前护盾百分比.
 
 ## 控制
 

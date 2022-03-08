@@ -146,6 +146,6 @@ description: MA WeaponCore Weapons
 
 ## 注意事项
 
-* 点防御不会针对非武器核心投射物. 所以请使用[原版武器替换模组](ti-huan-yuan-ban-wu-qi.md). 它也使得这些武器更好.
+* 点防御不会针对非武器核心投射物. 所以请使用[原版武器替换模组](../fu-wu-qi-mo-zu-dang-qian-zhou-mu/ti-huan-yuan-ban-wu-qi.md). 它也使得这些武器更好.
 * 目前没有"升级"功能.
 * 过载以耗电和发热成倍增加的代价使武器伤害输出翻倍. 如果武器在过载时过热, 武器会受到一些伤害.
