@@ -1,6 +1,6 @@
 # 烧毁超时编程块
 
-服务器使用 [PBLimiter](https://torchapi.net/plugins/item/c1905f3f-86ac-4c54-96d2-32f71f677f6e) 插件阻止玩家通过编程块恶意卡服.
+服务器使用 [PBLimiter](https://torchapi.com/plugins/view/?guid=c1905f3f-86ac-4c54-96d2-32f71f677f6e) 插件阻止玩家通过编程块恶意卡服.
 
 若某玩家的**所有**编程块在一个游戏刻(tick)内的总耗时超过限制, 则此玩家的所有编程块都会受到一定伤害, 直到编程块被烧毁, 总耗时下降到限制范围内.
 

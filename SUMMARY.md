@@ -30,6 +30,11 @@
 
 * [害人入门](pvp-ru-men/hai-ren-ru-men.md)
 
+## 客户端插件(可选)
+
+* [插件加载器](ke-hu-duan-cha-jian-ke-xuan/cha-jian-jia-zai-qi.md)
+* [多网格投影仪](ke-hu-duan-cha-jian-ke-xuan/duo-wang-ge-tou-ying-yi.md)
+
 ## 服务器模组(当前周目)
 
 * [特殊方块](fu-wu-qi-mo-zu-dang-qian-zhou-mu/te-shu-fang-kuai.md)
@@ -51,7 +56,9 @@
 * [网格动态暂停](fu-wu-qi-ji-zhi/wang-ge-dong-tai-zan-ting.md)
 * [烧毁超时编程块](fu-wu-qi-ji-zhi/shao-hui-chao-shi-bian-cheng-kuai.md)
 * [网格分裂时继承原名称](fu-wu-qi-ji-zhi/wang-ge-fen-lie-shi-ji-cheng-yuan-ming-cheng.md)
+* [未命名网格提醒](fu-wu-qi-ji-zhi/wei-ming-ming-wang-ge-ti-xing.md)
 * [垃圾清理](fu-wu-qi-ji-zhi/la-ji-qing-li.md)
+* [多网格投影仪](fu-wu-qi-ji-zhi/duo-wang-ge-tou-ying-yi.md)
 
 ## 服务器活动
 

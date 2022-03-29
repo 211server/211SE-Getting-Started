@@ -1,6 +1,6 @@
 # 超时网格广播
 
-服务器使用 [LagGridBroadcaster](https://torchapi.net/plugins/item/dd316db4-5d89-4db2-aa47-dac2a1a0ea64) 插件来播报超时网格给所有玩家.
+服务器使用 [LagGridBroadcaster](https://torchapi.com/plugins/view/?guid=dd316db4-5d89-4db2-aa47-dac2a1a0ea64) 插件来播报超时网格给所有玩家.
 
 超时指网格耗时过大, 目前的设定为 1 毫秒(大于等于). 多个网格连接在一起组成子网格将当做一个网格计算.
 

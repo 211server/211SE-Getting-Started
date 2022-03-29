@@ -1,6 +1,6 @@
 # 网格分裂时继承原名称
 
-服务器使用 [GridSplitNameKeeper](https://torchapi.net/plugins/item/985c10b1-b853-437e-abc0-396c917f0a3b) 插件来改变游戏原版在网格分裂时(合并块分离或网格被打碎)的碎片命名规则.
+服务器使用 [GridSplitNameKeeper](https://torchapi.com/plugins/view/?guid=985c10b1-b853-437e-abc0-396c917f0a3b) 插件来改变游戏原版在网格分裂时(合并块分离或网格被打碎)的碎片命名规则.
 
 在游戏中, 一个网格分裂后, PCU 最大的那一部分会继承原网格的一切属性, 包括网格名. 而其他的部分均为碎片, 碎片会被按游戏默认命名法来命名, 比如 Small Grid 1234.
 

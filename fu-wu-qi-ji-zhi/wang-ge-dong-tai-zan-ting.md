@@ -1,6 +1,6 @@
 # 网格动态暂停
 
-服务器使用 [Concealment](https://torchapi.net/plugins/item/17f44521-b77a-4e85-810f-ee73311cf75d) 插件动态暂停一部分网格来降低服务器负载.
+服务器使用 [Concealment](https://torchapi.com/plugins/view/?guid=17f44521-b77a-4e85-810f-ee73311cf75d) 插件动态暂停一部分网格来降低服务器负载.
 
 **被暂停的网格上的所有功能性(Functional Block)方块不会运作**, 包括但不限于编程块, 物流系统, 反应堆等. 因此一个被暂停的网格不会通过太阳能板充电, 反应堆也不会运作, 箱子里的矿也不会被精炼.
 
